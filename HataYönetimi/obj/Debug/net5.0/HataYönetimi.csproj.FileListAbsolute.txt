@@ -1,0 +1,16 @@
+C:\Users\misli\source\repos\patikaCsharp\HataYönetimi\bin\Debug\net5.0\HataYönetimi.exe
+C:\Users\misli\source\repos\patikaCsharp\HataYönetimi\bin\Debug\net5.0\HataYönetimi.deps.json
+C:\Users\misli\source\repos\patikaCsharp\HataYönetimi\bin\Debug\net5.0\HataYönetimi.runtimeconfig.json
+C:\Users\misli\source\repos\patikaCsharp\HataYönetimi\bin\Debug\net5.0\HataYönetimi.runtimeconfig.dev.json
+C:\Users\misli\source\repos\patikaCsharp\HataYönetimi\bin\Debug\net5.0\HataYönetimi.dll
+C:\Users\misli\source\repos\patikaCsharp\HataYönetimi\bin\Debug\net5.0\ref\HataYönetimi.dll
+C:\Users\misli\source\repos\patikaCsharp\HataYönetimi\bin\Debug\net5.0\HataYönetimi.pdb
+C:\Users\misli\source\repos\patikaCsharp\HataYönetimi\obj\Debug\net5.0\HataYönetimi.csproj.AssemblyReference.cache
+C:\Users\misli\source\repos\patikaCsharp\HataYönetimi\obj\Debug\net5.0\HataYönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misli\source\repos\patikaCsharp\HataYönetimi\obj\Debug\net5.0\HataYönetimi.AssemblyInfoInputs.cache
+C:\Users\misli\source\repos\patikaCsharp\HataYönetimi\obj\Debug\net5.0\HataYönetimi.AssemblyInfo.cs
+C:\Users\misli\source\repos\patikaCsharp\HataYönetimi\obj\Debug\net5.0\HataYönetimi.csproj.CoreCompileInputs.cache
+C:\Users\misli\source\repos\patikaCsharp\HataYönetimi\obj\Debug\net5.0\HataYönetimi.dll
+C:\Users\misli\source\repos\patikaCsharp\HataYönetimi\obj\Debug\net5.0\ref\HataYönetimi.dll
+C:\Users\misli\source\repos\patikaCsharp\HataYönetimi\obj\Debug\net5.0\HataYönetimi.pdb
+C:\Users\misli\source\repos\patikaCsharp\HataYönetimi\obj\Debug\net5.0\HataYönetimi.genruntimeconfig.cache

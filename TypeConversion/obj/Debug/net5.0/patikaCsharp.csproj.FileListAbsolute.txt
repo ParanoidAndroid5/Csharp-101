@@ -1,0 +1,16 @@
+C:\Users\misli\source\repos\patikaCsharp\patikaCsharp\bin\Debug\net5.0\patikaCsharp.exe
+C:\Users\misli\source\repos\patikaCsharp\patikaCsharp\bin\Debug\net5.0\patikaCsharp.deps.json
+C:\Users\misli\source\repos\patikaCsharp\patikaCsharp\bin\Debug\net5.0\patikaCsharp.runtimeconfig.json
+C:\Users\misli\source\repos\patikaCsharp\patikaCsharp\bin\Debug\net5.0\patikaCsharp.runtimeconfig.dev.json
+C:\Users\misli\source\repos\patikaCsharp\patikaCsharp\bin\Debug\net5.0\patikaCsharp.dll
+C:\Users\misli\source\repos\patikaCsharp\patikaCsharp\bin\Debug\net5.0\ref\patikaCsharp.dll
+C:\Users\misli\source\repos\patikaCsharp\patikaCsharp\bin\Debug\net5.0\patikaCsharp.pdb
+C:\Users\misli\source\repos\patikaCsharp\patikaCsharp\obj\Debug\net5.0\patikaCsharp.csproj.AssemblyReference.cache
+C:\Users\misli\source\repos\patikaCsharp\patikaCsharp\obj\Debug\net5.0\patikaCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misli\source\repos\patikaCsharp\patikaCsharp\obj\Debug\net5.0\patikaCsharp.AssemblyInfoInputs.cache
+C:\Users\misli\source\repos\patikaCsharp\patikaCsharp\obj\Debug\net5.0\patikaCsharp.AssemblyInfo.cs
+C:\Users\misli\source\repos\patikaCsharp\patikaCsharp\obj\Debug\net5.0\patikaCsharp.csproj.CoreCompileInputs.cache
+C:\Users\misli\source\repos\patikaCsharp\patikaCsharp\obj\Debug\net5.0\patikaCsharp.dll
+C:\Users\misli\source\repos\patikaCsharp\patikaCsharp\obj\Debug\net5.0\ref\patikaCsharp.dll
+C:\Users\misli\source\repos\patikaCsharp\patikaCsharp\obj\Debug\net5.0\patikaCsharp.pdb
+C:\Users\misli\source\repos\patikaCsharp\patikaCsharp\obj\Debug\net5.0\patikaCsharp.genruntimeconfig.cache
