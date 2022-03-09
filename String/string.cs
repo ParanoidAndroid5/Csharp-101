@@ -67,37 +67,6 @@ namespace c101
             Console.WriteLine(degisken.Substring(4));
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            
-
-
-
-
-
-
-
-
-
-
         }
     }
 }
