@@ -57,6 +57,10 @@ namespace c101
             Console.WriteLine(Math.Ceiling(22.3)); // 23 -> degerden büyük en kücük
             Console.WriteLine(Math.Round(22.3));  // 22 -> hangisine daha yakınsa
             Console.WriteLine(Math.Floor(22.7)); // 22 -> degerden kücük en büyük 
+
+            // ParseExact(String, String, IFormatProvider) Tarih ve saatin belirtilen dize temsilini, 
+            //DateTime belirtilen biçim ve kültüre özgü biçim bilgilerini kullanarak eşdeğer olarak dönüştürür. 
+            // Dize gösteriminin biçimi belirtilen biçimle tam olarak eşleşmelidir.
         }
     }
 }
