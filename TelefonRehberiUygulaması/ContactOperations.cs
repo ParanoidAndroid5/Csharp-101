@@ -107,7 +107,7 @@ namespace TelefonRehberi
                 }
                 else if (i == ContactModel.contactList.Count - 1)
                 {
-                    Console.WriteLine("Aradığınız krtiterlere uygun veri rehberde bulunamadı. Lütfen bir seçim yapınız.");
+                    Console.WriteLine("Aradığınız krtiterlere uygun veri rehberde bulunamadı. Lütfen  seçim yapınız.");
                     Console.WriteLine("* Güncellemeyi  sonlandırmak için : (1)");
                     Console.WriteLine("* Yeniden denemek için      : (2)");
                     string uDecision = Console.ReadLine();
@@ -165,7 +165,7 @@ namespace TelefonRehberi
             }
             else
             {
-                Console.WriteLine("Lütfen aramak istediğiniz kişinin telefon numarasını giriniz:");
+                Console.WriteLine("Lütfen aramak istediginiz kişinin telefon numarasını giriniz:");
                 string snum = Console.ReadLine();
                 foreach (var item in ContactModel.contactList)
                 {
